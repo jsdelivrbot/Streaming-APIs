@@ -1,3 +1,3 @@
 # Streaming API for seasonvar.ru
-![Alt text](https://raw.githubusercontent.com/HinamoreCh4n/Streaming-APIs/master/seasonvar.ru/api_flowchar.svg)
-<img src="https://raw.githubusercontent.com/HinamoreCh4n/Streaming-APIs/master/seasonvar.ru/api_flowchar.svg">
+![Alt text](https://cdn.rawgit.com/HinamoreCh4n/Streaming-APIs/ddb6b14c/seasonvar.ru/api_flowchar.svg)
+<img src="https://cdn.rawgit.com/HinamoreCh4n/Streaming-APIs/ddb6b14c/seasonvar.ru/api_flowchar.svg">
